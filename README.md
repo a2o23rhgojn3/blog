@@ -1,9 +1,7 @@
 # リポジトリについて
 WORDPRESSで作成したテーマです。
-以下、作成元となったテーマです。
-```
+以下、作成元となったテーマです。<br>
 https://startbootstrap.com/theme/clean-blog
-```
 
 # 言語
 * HTML
@@ -12,9 +10,7 @@ https://startbootstrap.com/theme/clean-blog
 * PHP
 
 # URL
-```
 http://myfav4u.com/
-```
 
 # 参考著書 / 参考教材
 * UDEMY
